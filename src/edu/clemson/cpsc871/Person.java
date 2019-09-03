@@ -3,6 +3,7 @@ package edu.clemson.cpsc871;
 
 /*
 * Here is a basic person class, it stores age, name, and gender
+* I want to see if this shows up in the stats of the project
 */
 public class Person {
 
